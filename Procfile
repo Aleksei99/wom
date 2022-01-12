@@ -1,0 +1,1 @@
+web: java -jar target/wom-1.0.jar
